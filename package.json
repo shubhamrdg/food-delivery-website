@@ -1,0 +1,19 @@
+{
+  "name": "food-delivery-website",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhamrdg/food-delivery-website.git"
+  },
+  "keywords": [],
+  "author": "Shubham Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhamrdg/food-delivery-website/issues"
+  },
+  "homepage": "https://github.com/shubhamrdg/food-delivery-website#readme"
+}
