@@ -23,9 +23,9 @@ A modern, responsive food delivery website where users can browse popular menu i
     cd food-delivery-website
     ```
 3. **Public URL:**
-    ```bash
+    
     https://shubhamrdg.github.io/food-delivery-website/#
-    ```
+    
 
 ## Usage
 
@@ -58,4 +58,5 @@ A modern, responsive food delivery website where users can browse popular menu i
 - [GitHub Profile](https://github.com/shubhamrdg)
 
 ---
+
 
